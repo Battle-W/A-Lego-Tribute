@@ -1,6 +1,5 @@
 <html>
-<head>
-<title> A Lego Tribute</title>
+
 <center>
 <body style="background-color:#93ACB7;">
 <h1>A Lego Tribute</h1>
@@ -29,11 +28,11 @@ No, I will not link to that video. This is a very small tribute to a big part of
 
 <h2>Mocs</h2>
 <p> Here is an extreme example of a moc</p>
-<img src="https://i.ytimg.com/vi/MvGsiy_ntsM/maxresdefault.jpg" style="width:720px;height:1280px;">
+<img src="https://i.ytimg.com/vi/MvGsiy_ntsM/maxresdefault.jpg" style="width:720px;">
 <p> due to Lego’s lack of "care" sometimes the community has made some custom sets of their own. People are even starting bussinesses to sell the instructions and peieces. However be warned these sets do not go through the rigorous testing that normal lego sets do. Also the parts that you can buy can be used. So be cautious with what companies you buy lego sets from.</p>
 <p> Also if you want to get into making custom lego sets like...</p> 
 
-<img src="https://mouldking.store/wp-content/uploads/2021/10/MOC-50143-LEGO-MOC-SW-Base-Outpost-on-Tatooine-Star-Wars-by-MOCOPOLIS-MOCFACTORY.jpg"style="width:800px;height:800px;">
+<img src="https://mouldking.store/wp-content/uploads/2021/10/MOC-50143-LEGO-MOC-SW-Base-Outpost-on-Tatooine-Star-Wars-by-MOCOPOLIS-MOCFACTORY.jpg"style="width:800px>
 <p> This video is a good intro with what softwares to use and how to render said lego sets.</p>
 
 
