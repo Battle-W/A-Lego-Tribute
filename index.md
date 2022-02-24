@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 <head>
 <title> A Lego Tribute</title>
@@ -31,7 +29,7 @@ No, I will not link to that video. This is a very small tribute to a big part of
 
 <h2>Mocs</h2>
 <p> Here is an extreme example of a moc</p>
-<img src="https://i.ytimg.com/vi/MvGsiy_ntsM/maxresdefault.jpg" style="width:1280px;height:720px;">
+<img src="https://i.ytimg.com/vi/MvGsiy_ntsM/maxresdefault.jpg" style="width:720px;height:1280px;">
 <p> due to Lego’s lack of "care" sometimes the community has made some custom sets of their own. People are even starting bussinesses to sell the instructions and peieces. However be warned these sets do not go through the rigorous testing that normal lego sets do. Also the parts that you can buy can be used. So be cautious with what companies you buy lego sets from.</p>
 <p> Also if you want to get into making custom lego sets like...</p> 
 
